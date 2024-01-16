@@ -44,6 +44,7 @@ Resultado encontrado: businesscorp.com.br/diretorio2 (Código de Status: 301)
 1. Busca por diretórios e arquivos na URL fornecida.
 2. Suporte para especificar um tipo de arquivo alvo.
 3. Opção para personalizar o user agent usado nas requisições.
+4. Suporte a HTTPS: O script é capaz de lidar com URLs usando HTTPS, garantindo que funcione para ambas as versões do protocolo.
 
 <br>
 
