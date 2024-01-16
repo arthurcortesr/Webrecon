@@ -2,6 +2,8 @@
 
 O script ```webrecon.sh``` é uma ferramenta de reconhecimento web projetada em bash para identificar diretórios e arquivos em uma determinada URL usando uma lista de palavras-chave fornecida. Ele utiliza a ferramenta de linha de comando curl para enviar requisições HEAD e analisar os códigos de resposta.
 
+Este repositório também possui o arquivo [melhorias](https://github.com/arthurcortesr/Webrecon/blob/main/melhorias.md) que é usado para adicionar anotações de possíveis melhorias a serem implementadas no no script.
+
 <br>
 
 ---
